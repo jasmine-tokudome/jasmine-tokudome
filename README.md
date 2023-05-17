@@ -9,6 +9,9 @@
 ![github-user-contribution](https://github.com/jasmine-tokudome/jasmine-tokudome/assets/103996128/1701a450-9fde-4c19-a650-29e93f175652)
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **jasmine-tokudome/jasmine-tokudome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
