@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm jasmine</h1>
 <h3 align="center">I am someone who aspires to become a frontend developer from Japan</h3>
 
-<p align="left"> <a href="https://twitter.com/jasmine21982501" target="blank"><img src="https://img.shields.io/twitter/follow/jasmine21982501?logo=twitter&style=for-the-badge" alt="jasmine21982501" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasmine-tokudome" alt="jasmine-tokudome" /></a> </p>
+
 
 - 🌱 I’m currently learning **Rails**
 
