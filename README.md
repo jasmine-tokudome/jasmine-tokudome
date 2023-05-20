@@ -3,8 +3,8 @@
 
 ![github-user-contribution](https://github.com/jasmine-tokudome/jasmine-tokudome/assets/103996128/1701a450-9fde-4c19-a650-29e93f175652)
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmine-tokudome&show_icons=true&theme=synthwave)
+
 
 - 🌱 I’m currently learning **Rails**
 
