@@ -24,3 +24,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasmine-tokudome&theme=vue)
 
 ![github-user-contribution](https://github.com/jasmine-tokudome/jasmine-tokudome/assets/103996128/1701a450-9fde-4c19-a650-29e93f175652)
+
+<img
+  src="https://github.com/jasmine-tokudome/jasmine-tokudome/blob/main/images/stat.svg"
+  alt="Activity"
+/>
