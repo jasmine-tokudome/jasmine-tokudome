@@ -9,9 +9,7 @@
 
 - ⚡ Fun fact **Rails**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmine-tokudome)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmine-tokudome&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmine-tokudome&show_icons=true&theme=omni)
 
 
 <h3 align="left">Connect with me:</h3>
