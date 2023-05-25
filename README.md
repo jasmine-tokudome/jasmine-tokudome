@@ -27,3 +27,10 @@
   src="https://github.com/jasmine-tokudome/jasmine-tokudome/blob/main/images/stat.svg"
   alt="Activity"
 />
+
+<!--　## WakaTime Statistics-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!--　※ 注：上記のコードは自動生成されたWakaTimeの統計情報を表示します。-->
