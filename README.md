@@ -23,10 +23,10 @@
 
 ![github-user-contribution](https://github.com/jasmine-tokudome/jasmine-tokudome/assets/103996128/1701a450-9fde-4c19-a650-29e93f175652)
 
-<img
+<!--　<img
   src="https://github.com/jasmine-tokudome/jasmine-tokudome/blob/main/images/stat.svg"
   alt="Activity"
-/>
+/>-->
 
 <!--　## WakaTime Statistics-->
 
