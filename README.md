@@ -1,16 +1,10 @@
 <h1 align="center">Hi , I'm jasmine</h1>
-<h3 align="center">I am someone who aspires to become a frontend developer from Japan</h3>
 
-- 🌱 I’m currently learning **Rails**
-
-- 👨‍💻 All of my projects are available at [https://github.com/jasmine-tokudome](https://github.com/jasmine-tokudome)
-
-- 📝 I regularly write articles on [https://www.leo-m-aquarius97.com](https://www.leo-m-aquarius97.com)
+- 👨‍💻 I’m currently learning **Rails**,**React(typescript)** 
 
 - ⚡ Fun fact **Rails**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmine-tokudome&show_icons=true&theme=omni)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
